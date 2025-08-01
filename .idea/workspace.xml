@@ -9,14 +9,8 @@
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/TicketBookingSystem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/TicketCounter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/ManageApisController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/UserManagementController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/ProjectManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/ProjectManagementApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/common/RestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/common/RestResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/controller/ManageProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/ManageProjectController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/project-management/src/test/java/com/api/project_management/ProjectManagementApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/test/java/com/api/ProjectManagementApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/ProjectManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/ProjectManagementApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +57,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\OneDrive\Documents\GitHub\mock-project\services" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.api.project_management.controller" />
     </key>
   </component>
   <component name="RunManager">
