@@ -1,4 +1,4 @@
-package com.api.project_management.controller;
+package com.api.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

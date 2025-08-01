@@ -1,4 +1,4 @@
-package com.api.project_management.common;
+package com.api.common;
 
 import lombok.Data;
 

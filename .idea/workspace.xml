@@ -9,12 +9,14 @@
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/TicketBookingSystem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/TicketCounter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/common/RestResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/controller/ManageProjectController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/ManageApisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/UserManagementController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/project-management/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/ProjectManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/ProjectManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/common/RestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/common/RestResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/project_management/controller/ManageProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/ManageProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/project-management/src/test/java/com/api/project_management/ProjectManagementApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/test/java/com/api/ProjectManagementApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
