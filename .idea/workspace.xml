@@ -9,8 +9,17 @@
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/TicketBookingSystem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/TicketCounter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/component/RequestHeaderInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/dto/request/ProjectManagementRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/dto/request/ProjectManagementResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/service/ManageProjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/service/impl/ManageProjectServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/util/ReqAttrValidationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/ProjectManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/ProjectManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/project-management/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/ManageProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/project-management/src/main/java/com/api/controller/ManageProjectController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +54,15 @@
     "Gradle.mock-project:services:project-management [:services:project-management:com.api.project_management.ProjectManagementApplication.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/HP/OneDrive/Documents/GitHub/mock-project",
-    "onboarding.tips.debug.path": "C:/Users/HP/OneDrive/Documents/GitHub/mock-project/services/project-management/src/main/java/com/api/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/HP/OneDrive/Documents/GitHub/mock-project/services/project-management/src/main/java/com/api/Main.java",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,6 +73,7 @@
       <recent name="C:\Users\HP\OneDrive\Documents\GitHub\mock-project\services" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.api.dto.request" />
       <recent name="com.api.project_management.controller" />
     </key>
   </component>
@@ -75,17 +90,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="mock-project.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="mock-project.main" />
-      <option name="filePath" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
